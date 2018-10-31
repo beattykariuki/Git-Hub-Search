@@ -4,7 +4,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
 import { HubService } from './hub.service';
 import { AppComponent } from './app.component';
-import { HubComponent } from './hub/hub.component';
+// import { HubComponent } from './hub/hub.component';
 
 @NgModule({
   declarations: [
