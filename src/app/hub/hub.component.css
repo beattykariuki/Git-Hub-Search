@@ -1,6 +1,25 @@
-body {
+body{
+    background-image: url("../../assets/bg.jpg");
+}
+.container{
     padding-top: 60px;
+    background-size: cover;
+    height:2200px;
+    width:100vw;
+    color: black;
 }
 _search-form {
     padding-top: 50px
+}
+#field{
+    width:200px;
+    margin-left: 480px;
+    margin-top: 50px;
+}
+.title{
+    background-color: rgb(7, 7, 7);
+    opacity: 0.6;
+    height: 100px;
+    color: antiquewhite;
+
 }
