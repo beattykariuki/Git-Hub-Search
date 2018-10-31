@@ -4,7 +4,7 @@ import { HubComponent } from './hub.component';
 
 describe('HubComponent', () => {
   let component: HubComponent;
-  // let fixture: ComponentFixture<HubComponent>;
+  let fixture: ComponentFixture<HubComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
